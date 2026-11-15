@@ -1,0 +1,14 @@
+{
+    "students": [],
+    "payments": [],
+    "attendance": [],
+    "menu": {
+        "Monday": "Dal, Rice, Roti",
+        "Tuesday": "Rajma, Rice, Salad",
+        "Wednesday": "Chole, Roti, Rice",
+        "Thursday": "Paneer, Roti, Rice",
+        "Friday": "Dal Makhani, Rice",
+        "Saturday": "Kadhi, Rice, Roti",
+        "Sunday": "Special Thali"
+    }
+}

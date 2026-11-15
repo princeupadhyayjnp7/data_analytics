@@ -1,0 +1,702 @@
+[
+    {
+        "roll": "STU001",
+        "name": "Aman Sharma",
+        "age": 22,
+        "course": "B.Tech CSE",
+        "marks": 57
+    },
+    {
+        "roll": "STU002",
+        "name": "Arjun Roy",
+        "age": 19,
+        "course": "BCA",
+        "marks": 99
+    },
+    {
+        "roll": "STU003",
+        "name": "Ravi Patel",
+        "age": 20,
+        "course": "BCA",
+        "marks": 47
+    },
+    {
+        "roll": "STU004",
+        "name": "Rohit Gupta",
+        "age": 21,
+        "course": "B.Sc",
+        "marks": 94
+    },
+    {
+        "roll": "STU005",
+        "name": "Aarav Patel",
+        "age": 24,
+        "course": "MCA",
+        "marks": 78
+    },
+    {
+        "roll": "STU006",
+        "name": "Rahul Sharma",
+        "age": 21,
+        "course": "BCA",
+        "marks": 89
+    },
+    {
+        "roll": "STU007",
+        "name": "Vikash Sharma",
+        "age": 25,
+        "course": "MBA",
+        "marks": 31
+    },
+    {
+        "roll": "STU008",
+        "name": "Arjun Kumar",
+        "age": 21,
+        "course": "B.Tech IT",
+        "marks": 42
+    },
+    {
+        "roll": "STU009",
+        "name": "Prince Mishra",
+        "age": 23,
+        "course": "BCA",
+        "marks": 37
+    },
+    {
+        "roll": "STU010",
+        "name": "Arjun Mishra",
+        "age": 20,
+        "course": "BBA",
+        "marks": 69
+    },
+    {
+        "roll": "STU011",
+        "name": "Karan Mishra",
+        "age": 24,
+        "course": "MBA",
+        "marks": 43
+    },
+    {
+        "roll": "STU012",
+        "name": "Prince Sharma",
+        "age": 21,
+        "course": "B.Sc",
+        "marks": 43
+    },
+    {
+        "roll": "STU013",
+        "name": "Vikash Singh",
+        "age": 23,
+        "course": "BCA",
+        "marks": 73
+    },
+    {
+        "roll": "STU014",
+        "name": "Vikash Yadav",
+        "age": 24,
+        "course": "B.Sc",
+        "marks": 41
+    },
+    {
+        "roll": "STU015",
+        "name": "Rohit Patel",
+        "age": 21,
+        "course": "B.Sc",
+        "marks": 27
+    },
+    {
+        "roll": "STU016",
+        "name": "Rahul Patel",
+        "age": 18,
+        "course": "MBA",
+        "marks": 66
+    },
+    {
+        "roll": "STU017",
+        "name": "Rahul Das",
+        "age": 20,
+        "course": "B.Sc",
+        "marks": 89
+    },
+    {
+        "roll": "STU018",
+        "name": "Ravi Verma",
+        "age": 25,
+        "course": "B.Tech CSE",
+        "marks": 74
+    },
+    {
+        "roll": "STU019",
+        "name": "Mohit Yadav",
+        "age": 20,
+        "course": "B.Tech IT",
+        "marks": 41
+    },
+    {
+        "roll": "STU020",
+        "name": "Deepak Yadav",
+        "age": 19,
+        "course": "MCA",
+        "marks": 59
+    },
+    {
+        "roll": "STU021",
+        "name": "Ravi Roy",
+        "age": 23,
+        "course": "MCA",
+        "marks": 98
+    },
+    {
+        "roll": "STU022",
+        "name": "Rohit Patel",
+        "age": 21,
+        "course": "B.Tech CSE",
+        "marks": 88
+    },
+    {
+        "roll": "STU023",
+        "name": "Deepak Sharma",
+        "age": 19,
+        "course": "BBA",
+        "marks": 48
+    },
+    {
+        "roll": "STU024",
+        "name": "Aarav Kumar",
+        "age": 18,
+        "course": "B.Sc",
+        "marks": 91
+    },
+    {
+        "roll": "STU025",
+        "name": "Deepak Yadav",
+        "age": 20,
+        "course": "MCA",
+        "marks": 62
+    },
+    {
+        "roll": "STU026",
+        "name": "Sumit Kumar",
+        "age": 19,
+        "course": "B.Tech CSE",
+        "marks": 57
+    },
+    {
+        "roll": "STU027",
+        "name": "Rahul Roy",
+        "age": 22,
+        "course": "MBA",
+        "marks": 32
+    },
+    {
+        "roll": "STU028",
+        "name": "Sumit Das",
+        "age": 18,
+        "course": "B.Tech CSE",
+        "marks": 91
+    },
+    {
+        "roll": "STU029",
+        "name": "Deepak Patel",
+        "age": 23,
+        "course": "MBA",
+        "marks": 83
+    },
+    {
+        "roll": "STU030",
+        "name": "Sumit Das",
+        "age": 23,
+        "course": "BBA",
+        "marks": 67
+    },
+    {
+        "roll": "STU031",
+        "name": "Karan Verma",
+        "age": 23,
+        "course": "BCA",
+        "marks": 73
+    },
+    {
+        "roll": "STU032",
+        "name": "Ravi Singh",
+        "age": 22,
+        "course": "BCA",
+        "marks": 44
+    },
+    {
+        "roll": "STU033",
+        "name": "Aarav Gupta",
+        "age": 19,
+        "course": "B.Tech CSE",
+        "marks": 53
+    },
+    {
+        "roll": "STU034",
+        "name": "Deepak Roy",
+        "age": 22,
+        "course": "BBA",
+        "marks": 53
+    },
+    {
+        "roll": "STU035",
+        "name": "Aditya Gupta",
+        "age": 22,
+        "course": "BCA",
+        "marks": 52
+    },
+    {
+        "roll": "STU036",
+        "name": "Ravi Roy",
+        "age": 25,
+        "course": "B.Sc",
+        "marks": 45
+    },
+    {
+        "roll": "STU037",
+        "name": "Aman Yadav",
+        "age": 23,
+        "course": "BCA",
+        "marks": 72
+    },
+    {
+        "roll": "STU038",
+        "name": "Vikash Patel",
+        "age": 20,
+        "course": "B.Tech IT",
+        "marks": 47
+    },
+    {
+        "roll": "STU039",
+        "name": "Ravi Patel",
+        "age": 19,
+        "course": "MBA",
+        "marks": 88
+    },
+    {
+        "roll": "STU040",
+        "name": "Vikash Verma",
+        "age": 23,
+        "course": "B.Tech IT",
+        "marks": 100
+    },
+    {
+        "roll": "STU041",
+        "name": "Aarav Das",
+        "age": 23,
+        "course": "B.Tech IT",
+        "marks": 93
+    },
+    {
+        "roll": "STU042",
+        "name": "Rahul Patel",
+        "age": 23,
+        "course": "B.Tech CSE",
+        "marks": 57
+    },
+    {
+        "roll": "STU043",
+        "name": "Deepak Yadav",
+        "age": 20,
+        "course": "MBA",
+        "marks": 71
+    },
+    {
+        "roll": "STU044",
+        "name": "Aman Gupta",
+        "age": 21,
+        "course": "MBA",
+        "marks": 65
+    },
+    {
+        "roll": "STU045",
+        "name": "Arjun Kumar",
+        "age": 22,
+        "course": "B.Sc",
+        "marks": 39
+    },
+    {
+        "roll": "STU046",
+        "name": "Vikash Gupta",
+        "age": 23,
+        "course": "MCA",
+        "marks": 69
+    },
+    {
+        "roll": "STU047",
+        "name": "Deepak Das",
+        "age": 23,
+        "course": "BCA",
+        "marks": 57
+    },
+    {
+        "roll": "STU048",
+        "name": "Vikash Singh",
+        "age": 22,
+        "course": "MBA",
+        "marks": 74
+    },
+    {
+        "roll": "STU049",
+        "name": "Vikash Patel",
+        "age": 23,
+        "course": "B.Sc",
+        "marks": 76
+    },
+    {
+        "roll": "STU050",
+        "name": "Prince Mishra",
+        "age": 25,
+        "course": "BBA",
+        "marks": 92
+    },
+    {
+        "roll": "STU051",
+        "name": "Aarav Singh",
+        "age": 18,
+        "course": "MCA",
+        "marks": 31
+    },
+    {
+        "roll": "STU052",
+        "name": "Sumit Yadav",
+        "age": 18,
+        "course": "BCA",
+        "marks": 26
+    },
+    {
+        "roll": "STU053",
+        "name": "Vikash Gupta",
+        "age": 18,
+        "course": "B.Tech CSE",
+        "marks": 42
+    },
+    {
+        "roll": "STU054",
+        "name": "Mohit Patel",
+        "age": 21,
+        "course": "B.Tech CSE",
+        "marks": 89
+    },
+    {
+        "roll": "STU055",
+        "name": "Arjun Roy",
+        "age": 25,
+        "course": "B.Tech CSE",
+        "marks": 60
+    },
+    {
+        "roll": "STU056",
+        "name": "Karan Patel",
+        "age": 23,
+        "course": "B.Sc",
+        "marks": 81
+    },
+    {
+        "roll": "STU057",
+        "name": "Sumit Patel",
+        "age": 21,
+        "course": "B.Tech IT",
+        "marks": 75
+    },
+    {
+        "roll": "STU058",
+        "name": "Rohit Patel",
+        "age": 18,
+        "course": "B.Sc",
+        "marks": 56
+    },
+    {
+        "roll": "STU059",
+        "name": "Harsh Roy",
+        "age": 22,
+        "course": "MCA",
+        "marks": 36
+    },
+    {
+        "roll": "STU060",
+        "name": "Rohit Singh",
+        "age": 24,
+        "course": "MCA",
+        "marks": 35
+    },
+    {
+        "roll": "STU061",
+        "name": "Karan Mishra",
+        "age": 18,
+        "course": "BBA",
+        "marks": 85
+    },
+    {
+        "roll": "STU062",
+        "name": "Arjun Singh",
+        "age": 23,
+        "course": "B.Tech CSE",
+        "marks": 37
+    },
+    {
+        "roll": "STU063",
+        "name": "Arjun Kumar",
+        "age": 23,
+        "course": "B.Tech CSE",
+        "marks": 35
+    },
+    {
+        "roll": "STU064",
+        "name": "Harsh Sharma",
+        "age": 23,
+        "course": "B.Sc",
+        "marks": 95
+    },
+    {
+        "roll": "STU065",
+        "name": "Aarav Sharma",
+        "age": 22,
+        "course": "B.Sc",
+        "marks": 61
+    },
+    {
+        "roll": "STU066",
+        "name": "Aman Singh",
+        "age": 20,
+        "course": "MBA",
+        "marks": 60
+    },
+    {
+        "roll": "STU067",
+        "name": "Deepak Mishra",
+        "age": 20,
+        "course": "MCA",
+        "marks": 44
+    },
+    {
+        "roll": "STU068",
+        "name": "Karan Singh",
+        "age": 24,
+        "course": "B.Sc",
+        "marks": 29
+    },
+    {
+        "roll": "STU069",
+        "name": "Aarav Gupta",
+        "age": 22,
+        "course": "BBA",
+        "marks": 57
+    },
+    {
+        "roll": "STU070",
+        "name": "Ravi Kumar",
+        "age": 21,
+        "course": "BCA",
+        "marks": 92
+    },
+    {
+        "roll": "STU071",
+        "name": "Aman Patel",
+        "age": 19,
+        "course": "B.Sc",
+        "marks": 80
+    },
+    {
+        "roll": "STU072",
+        "name": "Aditya Kumar",
+        "age": 21,
+        "course": "B.Tech IT",
+        "marks": 65
+    },
+    {
+        "roll": "STU073",
+        "name": "Ankit Singh",
+        "age": 25,
+        "course": "MBA",
+        "marks": 95
+    },
+    {
+        "roll": "STU074",
+        "name": "Karan Mishra",
+        "age": 20,
+        "course": "MBA",
+        "marks": 71
+    },
+    {
+        "roll": "STU075",
+        "name": "Harsh Kumar",
+        "age": 20,
+        "course": "BCA",
+        "marks": 42
+    },
+    {
+        "roll": "STU076",
+        "name": "Rahul Patel",
+        "age": 18,
+        "course": "MBA",
+        "marks": 48
+    },
+    {
+        "roll": "STU077",
+        "name": "Mohit Patel",
+        "age": 24,
+        "course": "MBA",
+        "marks": 56
+    },
+    {
+        "roll": "STU078",
+        "name": "Ankit Patel",
+        "age": 25,
+        "course": "MCA",
+        "marks": 60
+    },
+    {
+        "roll": "STU079",
+        "name": "Aman Patel",
+        "age": 23,
+        "course": "B.Sc",
+        "marks": 77
+    },
+    {
+        "roll": "STU080",
+        "name": "Rahul Mishra",
+        "age": 19,
+        "course": "B.Sc",
+        "marks": 63
+    },
+    {
+        "roll": "STU081",
+        "name": "Prince Singh",
+        "age": 19,
+        "course": "MCA",
+        "marks": 99
+    },
+    {
+        "roll": "STU082",
+        "name": "Aman Sharma",
+        "age": 18,
+        "course": "B.Sc",
+        "marks": 64
+    },
+    {
+        "roll": "STU083",
+        "name": "Aarav Verma",
+        "age": 22,
+        "course": "B.Tech CSE",
+        "marks": 69
+    },
+    {
+        "roll": "STU084",
+        "name": "Aarav Das",
+        "age": 24,
+        "course": "MCA",
+        "marks": 78
+    },
+    {
+        "roll": "STU085",
+        "name": "Aman Mishra",
+        "age": 23,
+        "course": "B.Tech IT",
+        "marks": 77
+    },
+    {
+        "roll": "STU086",
+        "name": "Ravi Gupta",
+        "age": 23,
+        "course": "B.Tech IT",
+        "marks": 41
+    },
+    {
+        "roll": "STU087",
+        "name": "Mohit Gupta",
+        "age": 21,
+        "course": "B.Tech CSE",
+        "marks": 45
+    },
+    {
+        "roll": "STU088",
+        "name": "Ravi Das",
+        "age": 24,
+        "course": "BBA",
+        "marks": 45
+    },
+    {
+        "roll": "STU089",
+        "name": "Aman Das",
+        "age": 18,
+        "course": "B.Tech CSE",
+        "marks": 30
+    },
+    {
+        "roll": "STU090",
+        "name": "Karan Yadav",
+        "age": 23,
+        "course": "MCA",
+        "marks": 48
+    },
+    {
+        "roll": "STU091",
+        "name": "Aditya Yadav",
+        "age": 22,
+        "course": "BCA",
+        "marks": 43
+    },
+    {
+        "roll": "STU092",
+        "name": "Ankit Verma",
+        "age": 25,
+        "course": "BBA",
+        "marks": 52
+    },
+    {
+        "roll": "STU093",
+        "name": "Vikash Kumar",
+        "age": 19,
+        "course": "BBA",
+        "marks": 41
+    },
+    {
+        "roll": "STU094",
+        "name": "Ravi Sharma",
+        "age": 21,
+        "course": "B.Tech IT",
+        "marks": 72
+    },
+    {
+        "roll": "STU095",
+        "name": "Vikash Verma",
+        "age": 24,
+        "course": "MBA",
+        "marks": 87
+    },
+    {
+        "roll": "STU096",
+        "name": "Deepak Verma",
+        "age": 25,
+        "course": "B.Tech IT",
+        "marks": 33
+    },
+    {
+        "roll": "STU097",
+        "name": "Aman Roy",
+        "age": 18,
+        "course": "B.Tech IT",
+        "marks": 92
+    },
+    {
+        "roll": "STU098",
+        "name": "Vikash Roy",
+        "age": 21,
+        "course": "BCA",
+        "marks": 72
+    },
+    {
+        "roll": "STU099",
+        "name": "Vikash Das",
+        "age": 25,
+        "course": "B.Sc",
+        "marks": 52
+    },
+    {
+        "roll": "STU100",
+        "name": "Aarav Verma",
+        "age": 21,
+        "course": "MBA",
+        "marks": 89
+    }
+]
