@@ -262,16 +262,309 @@
 #     for j in range (1, 11):
 #         print( j, end ="")
 #         print ()
-# for i in range(1, 6):
-    for j in range(1, i + 1):
-        print(j, end= " " )
-    print()
+
 # for i in range(1, 10):
 #     if i == 5:
 #         print ("add this to the favs")
 #     else:
+#         print(i).
+# for i in range(1, 101):
+#     if i % 8 == 0 and i % 12 == 0:
 #         print(i)
 
+# n = 1
+
+# while n <= 10:
+#     if n == 3:
+#         print("add this to the favs")
+#     else:
+#         print(n)
+#     n += 1
+"""break and continue statement"""
+# break statement: used to exit the loop completely
+# continue statement: used to skip the current iteration and move to the next iteration
+# for i in range (1, 11):
+#     if i == 5:
+#         continue
+#     else:
+#      print(i)
+# for i in range(1, 11):
+#     if i == 8:
+#         break
+#     else:
+#         print(i)
+"""problem solving"""
+#write a program to find the sum of all the even numbers between 1 to 100
+# sum = 0
+# for i in range(1,51):
+#     if i % 2 == 0:
+#         sum += i
+#         print("the sum of all the even numbers between 1 to 100 is",sum)
+#write a program to write first 20 numbers and their squared numbers.
+# for i in range(1, 21):
+#     print(i, "squared is", i**2)
+#write a program to find the sum of first 10 odd numbers using while loop.
+# sum = 0
+# n = 0
+# while n <= 20:
+#     if n % 2 != 0:
+#         sum += n
+#     n += 1
+# print("The sum of the first 10 odd numbers is:", sum)
+#write a program to check if a number is divisible by 8 and 12 , up to 100 numbers.
+# for i in range (1, 101):
+#     if i % 8 == 0 and i % 12 == 0:
+        #print(i)
+        # write a program to create a billling system in supermarket.
+# while True:
+#     print("*****WELCOME TO SUPERMARKET*****")
+#     name = input("enter your name here: ")
+#     total = 0
+#     while True:
+#         print("enter the amount and quantity")
+#         amount = float(input("enter the amount of item: "))
+#         quantity = float(input("enter the quantity of item: "))
+#         total += amount * quantity
+#         repeat = input("do you want to add more items? (yes/no): ").lower()
+#         if repeat == "no":
+#             break
+
+#     print("-" * 40)
+#     print("Name:", name)
+#     print("Amount to be paid:", total)
+#     print("-" * 40)
+#     print("thank you for shopping with us")
+#     repeat = input("do you want to continue shopping? (yes/no): ").lower()
+#     if repeat == "no":
+#         break
+"""problem solving"""
+a= "Why fit in , when you are born to stand out" 
+# #write a program to find the length of the following string.
+# b = (len(a))
+# print("the length of the string is",b)
+# #write a program to check how many time alphabet o in occurs in the string.
+# c = a.count("o")
+# print("the number of times 'o' occurs in the string is",c)
+# #write a program to convert the string into upper case and lower case.
+# d = a.upper()
+# print("the string in upper case is",d)
+# e= a.lower()
+# print("the string in lower case is",e)
+# #write a program to convert the string into title. 
+# f = a.title()
+# print("the string in title case is",f)
+#write a program to find the index number of "fit in" in the string.
+# print(a.find("fit in"))
+#pattern problem
+# for i in range(1, 6):  # rows
+#     for j in range(1, i + 1):  # columns
+#         print("*", end="")
+#     print()
+# for i in range(1, 6):  # rows
+#     for j in range(1, i + 1):  # columns
+#         print(i, end="")
+#     print()
+# for i in range(1, 6):  # rows
+#     for j in range(6,i,-1):  # columns
+#         print(i, end="")
+#     print()
+# for i in range(1, 6):  # rows
+#     for j in range(5,i,-1):  
+#         print(" ", end=" ")
+#     for k in range(i):  
+#         print("*", end=" ")
+#     print()
+# # Upper Star Pattern
+# for i in range(1, 6):
+#     for j in range(1, i + 1):
+#         print("*", end=" ")
+#     print()
+
+# # Lower Star Pattern
+# for i in range(5, 0, -1):
+#     for j in range(1, i + 1):
+#         print("*", end=" ")
+#     print()
+# for i in range (1,11):
+#     for j in range(1, i+1):
+#         print(i*j, end=" ")
+#     print()
+
+"""string manipulation"""
+# #string is a cobination of numbers, alphabets and special characters, inclosed in single or double quotes.
+# a = "Harry Potter and the goblet of fire"
+# #to find the length of the string
+# print(len(a))
+# #to find the number of times a character occurs in the string
+# print(a.count("o"))
+# #to convert the string into upper case
+# print(a.upper())
+# #to convert the string into lower case
+# print(a.lower())
+# #to convert the string into title case
+# print(a.title())
+# #to find the index of a character in the string
+# print(a.find("o"))
+# #to convert the first letter to capital
+# print(a.capitalize())
+# #to convert a string into lower case
+# print(a.casefold())
+# #to find the index number of a character in the string
+# print(a.index("o",15,34))
+# #to write  variable inside a string
+# name = "prince"
+# age = 24
+# b = f"my name is {name} and I am {age} years old"
+# print(b)
+# #it fill the given charaters and centralizes a string
+# print(name.center(20,"*"))
+"""string function"""
+a = "hello"
+b = "123hello"
+c = "123456"
+d = "HELLO"
+e = " "
+f = "Hello 123"
+g = "1.234"
+h = "Harry Potter And The Goblet Of Fire"
+
+# isalnum - Returns True if all characters in the string are alphanumeric
+# print(a,a.isalnum())
+# print(b,b.isalnum())
+# print(c,c.isalnum())
+# print(d,d.isalnum())
+# print(e,e.isalnum())
+# print(f,f.isalnum())
+# print(g,g.isalnum())
+# isalpha - Returns True if all characters in the string are in the alphabet
+# print(a,a.isalnum())
+# print(b,b.isalnum())
+# print(c,c.isalnum())
+# print(d,d.isalnum())
+# print(e,e.isalnum())
+# print(f,f.isalnum())
+# print(g,g.isalnum())
+# isdecimal - Returns True if all characters in the string are decimals
+# print(a,a.isdecimal())
+# print(b,b.isdecimal())
+# print(c,c.isdecimal())
+# print(d,d.isdecimal())
+# print(e,e.isdecimal())
+# print(f,f.isdecimal())
+# print(g,g.isdecimal())
+# isdigit - Returns True if all characters in the string are digits
+# print(a,a.isdigit())
+# print(b,b.isdigit())
+# print(c,c.isdigit())
+# print(d,d.isdigit())
+# print(e,e.isdigit())
+# print(f,f.isdigit())
+# print(g,g.isdigit())
+# isnumeric - Returns True if all characters in the string are numeric
+# print(a,a.isnumeric())
+# print(b,b.isnumeric())
+# print(c,c.isnumeric())
+# print(d,d.isnumeric())
+# print(e,e.isnumeric())
+# print(f,f.isnumeric())
+# print(g,g.isnumeric())
+# islower - Returns True if all characters in the string are lower case
+# print(a,a.islower())
+# print(b,b.islower())
+# print(c,c.islower())
+# print(d,d.islower())
+# print(e,e.islower())
+# print(f,f.islower())
+# print(g,g.islower())
+# isupper - Returns True if all characters in the string are upper case
+# print(a,a.isupper())
+# print(b,b.isupper())
+# print(c,c.isupper())
+# print(d,d.isupper())
+# print(e,e.isupper())
+# print(f,f.isupper())
+# print(g,g.isupper())
+# isspace - Returns True if all characters in the string are whitespaces
+# print(a,a.isspace())
+# print(b,b.isspace())
+# print(c,c.isspace())
+# print(d,d.isspace())
+# print(e,e.isspace())
+# print(f,f.isspace())
+# print(g,g.isspace())
+# istitle - Returns True if the string follows the rules of a title
+# print(a,a.istitle())
+# print(b,b.istitle())
+# print(c,c.istitle())
+# print(d,d.istitle())
+# print(e,e.istitle())
+# print(f,f.istitle())
+# print(g,g.istitle())
+# print(h,h.istitle())
+# endswith() - Returns true if the strings ends with the specified value
+# a = "Harry Potter"
+# print(a.endswith("t"))
+# startswith() - Returns true if the strings starta with the specified value
+# a = "harry potter"
+# print(a.startswith("h"))
+# swapcase() - swaps case , lower case becomes upper case and vice versa
+# a = "PRINCE UPADHYAY"
+# print(a.swapcase())
+# strip() - returns a trimmed version of the string
+# a =  "  ******* prince upadhyay......."
+# print(a.strip(".,*, "))
+# split() - splits the string at the specified separator, and returns a list 
+# a  = "#oofd#brb#omw#tb"
+# b = "hello. my name is jhon. i am 23 years old"
+# print(a.split("#"))
+# print(b.split("."))
+# ljust() - returns a lef justfied version of my string
+# a =  " prince upadhyay"
+
+# x = a.ljust(20,"*")
+
+# print(x, " this is my name ")
+# rjust() - returns a first justified version of the string
+# a = "Prince Upadhyay"
+# x = a.rjust(20,"*")
+# print(x,"this is my name")
+# replace() - retuns a string where a specified value is replaced with a specified value
+# a =(("my name is liza"))
+# print(a)
+# print (a.replace("liza","pprince"))
+# rindex() - searches the sttring for a specified value and returns the last position of where it was found
+# a = "Harry Potter and the Prisoner of Azkaban"
+# print(a.rindex("Prisoner"))
+# rfind()
+# a = "Harry Potter and the Prisoner of Azkaban"
+# print(a.rfind("i"))
+"""slicing in string"""
+# a =  "Harry Potter and the Goblet of fire"
+# b ="0123456789"
+# print(a)
+# print(a[0:5])
+# print(a[6:12])
+# print(a[:5])
+# print(a[-4:])
+# print(b[::6])
+# print(b[:7:2])
+# print(b[::-1])
+# print(b[6::-1])
+"""problem solving"""
+#write a program to get fibonacci series up to 10 numbers
+a = 0
+b = 1
+n = int(input("enter a number here : "))
+if n == 1:
+      print(1)
+else:
+      print(a)
+print(b)
+for i in range (2,n):
+      c = a+b
+      a = b
+      b = c
+      print(c)
 
 
 
